@@ -1,4 +1,5 @@
 **Rebuild by AT90 & BinZ FAKE!**
+
 BZOT9 Snake is a classic snake game. The mission is that you have to eat food to earn score in the game
 
 What's new on Re-build Server?:
@@ -12,7 +13,7 @@ Rebuild through the old server, so some new changes
 
 - Play Online: https://binzfake9999.github.io/rb-bzot9snake/
 
-⚠️ NOTES: 
+⚠️ *NOTES:*
 
 - 1: Due to being updated from the old source code, this version will not be supported on android!
 
